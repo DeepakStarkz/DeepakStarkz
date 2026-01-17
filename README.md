@@ -29,7 +29,6 @@ A passionate builder who loves turning ideas into delightful, production-ready s
 ---
 
 
-
 ## 💼 Work & Availability
 
 - Open to: Full-time opportunities, contract roles, and meaningful open-source collaboration
@@ -44,7 +43,7 @@ A passionate builder who loves turning ideas into delightful, production-ready s
 - Website: https://deepakstarkz.github.io/deepakraman-resume/
 - LinkedIn: https://www.linkedin.com/in/deepak-vr1111/
 - GitHub: https://github.com/DeepakStarkz
-
+- Leetcode: https://leetcode.com/u/Dpak_Wayne/
 ---
 
 ## 🤝 How to Work With Me
@@ -53,10 +52,3 @@ A passionate builder who loves turning ideas into delightful, production-ready s
 - Prefer small, iterative PRs with descriptive commit messages.
 - I value collaboration: iterate quickly, measure impact, and improve continuously.
 
----
-
-## 🧭 What I Value
-
-- Thoughtful engineering over clever hacks
-- Developer experience, observability, and reliability
-- Shipping regularly and learning from real usage
